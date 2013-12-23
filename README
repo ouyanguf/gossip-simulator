@@ -1,0 +1,35 @@
+
+//////////////////////////////////////////////////////
+//	  	COP5615 Distributed Operating System        //
+//                  Project 2                       //
+//              Yang OU(UFID:2012-6327)             //
+//////////////////////////////////////////////////////
+
+1. Team Member:
+(Individual Project. No Other Members.)
+				
+2. All functions are working.
+
+For project2.scala, all functions are implemented. Use the following command to execute.
+
+"scala project2 numNodes topology algorithm"
+
+For project2bonus.scala, all functions are implemented. Use the following command to execute.
+
+"scala project2bonus numNodes topology algorithm failure-period"
+
+3. The largest network I managed to deal with.
+(Larger network may be achieved using VERY LARGE amount of time!)
+gossip full:    50000
+gossip imp2D:   20000
+gossip 2D:      10000
+gossip line:      200
+
+push-sum full:  50000
+push-sum imp2D: 30000
+push-sum 2D:     2000
+push-sum line:    600
+
+4. Failure Mode and More
+
+See Report.pdf
